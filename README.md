@@ -5,8 +5,9 @@
 	line-height: 1.1em;
 	margin:0px;
 	text-align: center;
-	text-transform: uppercase;">Shaheen Ghazazani (C) Carleton 2017, Feel free to take anything you want!</h1>
-<a href="http://shaheensweb.me">Click Here</a> to go directly to the webdomain! 
+	text-transform: uppercase;">Shaheen Ghazazani (C) Carleton 2014-2015 Old Web Domain - feel free to take anything you want!</h1>
+<a href="http://shaheensweb.me">Click Here</a> to go directly to the UPDATED webdomain!  <br />
+If you wish to view the old version pull a version and just run it locally! 
 
 Concept: Personal blog created for the purpose of blogging, redirecting internship traffic, and overall design practice. <br />
 
@@ -18,11 +19,7 @@ In terms of design this web domain uses aspects of: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-> CSS<br />
 &nbsp;&nbsp;&nbsp;&nbsp;-> jQuery <br />
 &nbsp;&nbsp;&nbsp;&nbsp;-> JS <br />
-  
-This website contains: <br />
-&nbsp;&nbsp;&nbsp;&nbsp;-> Resume <br />
-&nbsp;&nbsp;&nbsp;&nbsp;-> Work Experience <br />
-&nbsp;&nbsp;&nbsp;&nbsp;-> Online Web Presence <br />
+
 
 Refer to below for an image from the front page of the webdomain;
 ![alt tag](http://i.imgur.com/SpKUBX8.jpg)
